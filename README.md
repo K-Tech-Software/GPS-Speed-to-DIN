@@ -6,4 +6,5 @@ Eingesetzt wurden:
 Ublox neo 6m GPS Modul
 Arduino Nano
 
-Die Anzahl der Ausgegeben Pulse pro Meter kann in Zeile 110 eingestellt werden.
+Die Anzahl der Ausgegeben Pulse pro Meter kann in Zeile 110 eingestellt werden. 
+Standardwert laut Norm 130 Impulse/m.
